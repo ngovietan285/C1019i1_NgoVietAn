@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18a35339-7466-4f00-9bc1-8692a9da59a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/C1019i1_NgoVietAn" />
+  </component>
+  <component name="ProjectId" id="1WBVGnRFLZkeVJHXlkADM5Tnlnx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18a35339-7466-4f00-9bc1-8692a9da59a3" name="Default Changelist" comment="" />
+      <created>1578622881088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578622881088</updated>
+      <workItem from="1578622882613" duration="1936000" />
+      <workItem from="1578625053334" duration="2604000" />
+      <workItem from="1578627920466" duration="5041000" />
+      <workItem from="1578633020994" duration="828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="373" width="474" height="249" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#1" timestamp="1578631891345">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="272" y="373" width="474" height="249" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#1/0.27.1920.1053@0.27.1920.1053" timestamp="1578631891345" />
+    <state x="353" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578633046267">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="353" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1578633046267" />
+    <state x="253" y="366" width="633" height="373" key="NewPhpClassDialog" timestamp="1578623199586">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="253" y="366" width="633" height="373" key="NewPhpClassDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1578623199586" />
+    <state x="366" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1578623057206">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="366" y="478" width="399" height="149" key="NewPhpFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1578623057206" />
+    <state x="59" y="187" key="SettingsEditor" timestamp="1578625264193">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="59" y="187" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1578625264193" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578633020559">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1578633020559" />
+    <state x="233" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1578626569650">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="233" y="258" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1578626569650" />
+  </component>
+</project>
